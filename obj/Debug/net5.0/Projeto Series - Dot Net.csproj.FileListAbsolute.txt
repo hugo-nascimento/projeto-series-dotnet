@@ -1,0 +1,16 @@
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\bin\Debug\net5.0\Projeto Series - Dot Net.exe
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\bin\Debug\net5.0\Projeto Series - Dot Net.deps.json
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\bin\Debug\net5.0\Projeto Series - Dot Net.runtimeconfig.json
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\bin\Debug\net5.0\Projeto Series - Dot Net.runtimeconfig.dev.json
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\bin\Debug\net5.0\Projeto Series - Dot Net.dll
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\bin\Debug\net5.0\ref\Projeto Series - Dot Net.dll
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\bin\Debug\net5.0\Projeto Series - Dot Net.pdb
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.csprojAssemblyReference.cache
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.AssemblyInfoInputs.cache
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.AssemblyInfo.cs
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.csproj.CoreCompileInputs.cache
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.dll
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\ref\Projeto Series - Dot Net.dll
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.pdb
+C:\Users\hugo-\Documents\Projeto Series - Dot Net\obj\Debug\net5.0\Projeto Series - Dot Net.genruntimeconfig.cache
